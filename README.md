@@ -8,7 +8,7 @@ The main objective of this project is to analyze data efficiently and present it
 ## Dataset Used
 -<a href="https://github.com/bhadade123/Excel-/blob/main/Dataset.xlsx">Dataset view</a>
 ## Dashborad 
--<a href="https://github.com/bhadade123/Excel-/blob/main/First%20Dashbord.xlsm">Dataset view</a>
+-<a href="https://github.com/bhadade123/Excel-/blob/main/First%20Dashbord.xlsm">Dashboard view</a>
 
 ### 🔹 Key Features
 - Interactive Dashboard
